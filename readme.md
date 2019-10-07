@@ -1,6 +1,6 @@
 # Docker Enterprise - The first DISA STIG'ed container platform!
 
-Docker Enterprise was built with the one idea in mind, Secure by Default. When building a Secure By Default platform one needs to consider security validation and Governmental use. Thanks to [Defense Information Systems Agency ( DISA )](https://public.cyber.mil/) for allowing Docker to become the first Docker Container platform with a Security Technical Implementation Guides ( STIG ). Having a STIG allows Agencies to ensure they are running Docker Enterprise is the most secure manor. The STIG also provides validation for not only the public sector but also to the private sector. One of the great concepts with any compliance framework, like STIGs, is the idea of inherited controls. Meaning adopting a STIG recommendation helps in improving the security posture. Here is a great blurb from [DISA' site](https://public.cyber.mil/stigs/):
+Docker Enterprise was built with the one idea in mind, Secure by Default. When building a Secure By Default platform one needs to consider security validation and Governmental use. Thanks to [Defense Information Systems Agency ( DISA )](https://public.cyber.mil/) for sponsoring Docker Enterprise to become the first Docker Container platform with a Security Technical Implementation Guides ( STIG ). The STIG took months of work around wiritng and validating the controls. What does it really mean? Having a STIG allows Agencies to ensure they are running Docker Enterprise is the most secure manor. The STIG also provides validation for not only the public sector but also to the private sector. One of the great concepts with any compliance framework, like STIGs, is the idea of inherited controls. Meaning adopting a STIG recommendation helps in improving the security posture. Here is a great blurb from [DISA' site](https://public.cyber.mil/stigs/):
 
 ![disa_site](disa_site.jpg)
 
@@ -36,8 +36,10 @@ From the STIG itself there are only 100 controls. Here is the breakdown.
 
 For reference CAT 1 is the most important controls to pay attention to. As you can see there are only 23 CAT 1. AND the bulk of those controls are "what not to do" controls. Meaning they are checks to ensure a situation is not occurring. With only 100 total controls there is not a lot of work to do to harden Docker Enterprise.
 
+Please keep in mind that the STIG will be updated as often as needed. We want to ensure that all our customers and partners have access to the latest security information around Docker Enterprise.
+
 If you are interested in learning more why Docker Enterprise is Secure by Default please take a look at our [Security Reference Architecture](https://success.docker.com/article/security-best-practices).
 
-We also have good information on our [Government page](https://www.docker.com/solutions/government).
+We also have some good information on our [Government page](https://www.docker.com/solutions/government).
 
 Or if you are ready to start a proof of concept please [contact sales](https://www.docker.com/company/contact-sales).
