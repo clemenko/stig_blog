@@ -16,7 +16,7 @@ So now you are curious to see what is in the STIG. STIGs are formatted in xml an
 
 ![disa_site](docker_stig.jpg)
 
-The STIG can currently be found in the [August 8th STIG Compliation](https://public.cyber.mil/stigs/compilations/). Once unzipped navigate to **OS-VRT- Docker Enterprise 2.x STIG** and locate **U_Docker_Enterprise_2-x_Linux-UNIX_V1R1_STIG.zip**. Contained in final zip file is all the documentation and xml STIG itself. Here are quick links to the STIG.
+The STIG can be found here: [ Docker Enterprise 2.x Linux/UNIX STIG - Ver 1 Rel 1 ](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Docker_Enterprise_2-x_Linux-UNIX_V1R1_STIG.zip). You will need to unzip it.
 
 Please keep in mind that the current STIG calls out Docker Enterprise 2.x. The STIG absolutely applies to Docker Enterprise 3.X!
 
